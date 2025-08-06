@@ -4,12 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Laravel Forge Youtube Video</title>
+    <title>Users</title>
 </head>
 <body>
-    <h2>Laravel Forge Youtube Video</h2>
-    <h1>Change Working Perfect!!!</h1>
-    <h3>Quick Deploy Working </h3>
-    <a href="{{ route('users')}}">Users</a>
+    <h2>This is Users Page</h2>
+    <a href="{{ route('home') }}">Home</a>
 </body>
 </html>
