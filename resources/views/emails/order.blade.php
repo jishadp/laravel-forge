@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Users</title>
+    <title>Document</title>
 </head>
 <body>
-    <h2>This is Users Page</h2>
-    <a href="{{ route('home') }}">Home</a>
-    <a href="{{ route('send.email') }}">Send Email</a>
+    <h2>Your Order is successfully placed</h2>
 </body>
 </html>
